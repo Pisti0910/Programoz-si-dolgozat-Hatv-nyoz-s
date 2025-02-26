@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diak\\Desktop\\sajat_mappa\\Bela\\Hatvanyozas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0E41DB-DC7F-443A-8203-A8AB39FEBC6D}|HatvanyozasCLI\\HatvanyozasCLI.csproj|c:\\users\\diak\\desktop\\sajat_mappa\\bela\\hatvanyozas\\hatvanyozascli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0E41DB-DC7F-443A-8203-A8AB39FEBC6D}|HatvanyozasCLI\\HatvanyozasCLI.csproj|solutionrelative:hatvanyozascli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C10378-34D4-4D4D-AA63-D6A2F46A436E}|HatvanyozasTest\\HatvanyozasTest.csproj|c:\\users\\diak\\desktop\\sajat_mappa\\bela\\hatvanyozas\\hatvanyozastest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C10378-34D4-4D4D-AA63-D6A2F46A436E}|HatvanyozasTest\\HatvanyozasTest.csproj|solutionrelative:hatvanyozastest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Desktop\\sajat_mappa\\Bela\\Hatvanyozas\\HatvanyozasTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "HatvanyozasTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\diak\\Desktop\\sajat_mappa\\Bela\\Hatvanyozas\\HatvanyozasTest\\UnitTest1.cs",
+              "RelativeToolTip": "HatvanyozasTest\\UnitTest1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwE8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:44:53.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Desktop\\sajat_mappa\\Bela\\Hatvanyozas\\HatvanyozasCLI\\Program.cs",
+              "RelativeDocumentMoniker": "HatvanyozasCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\diak\\Desktop\\sajat_mappa\\Bela\\Hatvanyozas\\HatvanyozasCLI\\Program.cs",
+              "RelativeToolTip": "HatvanyozasCLI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:38:10.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
